@@ -1,4 +1,12 @@
-### Hi there 👋
+## HI, I am Elwin
+
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OilRabbit&show_icons=true&locale=en&layout=compact" alt="OilRabbit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OilRabbit&show_icons=true&locale=en" alt="OilRabbit" /></p>
+-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OilRabbit&" alt="OilRabbit" /></p>
 
 <!--
 **OilRabbit/OilRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
